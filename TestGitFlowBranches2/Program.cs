@@ -10,6 +10,9 @@ namespace TestGitFlowBranches2
     {
         static void Main(string[] args)
         {
+            // first commit
+            var first = 1;
+            //first commit
         }
     }
 }
